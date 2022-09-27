@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/bwo", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/wc-sitz-parima-mit-absenkautomatik-polypropylen-weisz-bwo-3990389-1.jpg":"\u002Fassets\u002Fimages\u002Fwc-sitz-parima-mit-absenkautomatik-polypropylen-weisz-bwo-3990389-1.webp"}}],fetch:{},mutations:void 0});
