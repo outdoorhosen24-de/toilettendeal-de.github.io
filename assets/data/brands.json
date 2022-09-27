@@ -1,17 +1,87 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
+        "key": "villeroy & boch",
+        "name": "Villeroy & Boch",
+        "slug": "villeroy-boch",
+        "productCategory": "Villeroy & Boch",
+        "localThumb": "/assets/images/hersteller/villeroy-boch.webp"
     },
     {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
+        "key": "duravit",
+        "name": "Duravit",
+        "slug": "duravit",
+        "productCategory": "Duravit",
+        "localThumb": "/assets/images/hersteller/duravit.webp"
+    },
+    {
+        "key": "baliv",
+        "name": "baliv",
+        "slug": "baliv",
+        "productCategory": "baliv",
+        "localThumb": "/assets/images/hersteller/baliv.webp"
+    },
+    {
+        "key": "geberit",
+        "name": "Geberit",
+        "slug": "geberit",
+        "productCategory": "Geberit",
+        "localThumb": "/assets/images/hersteller/geberit.webp"
+    },
+    {
+        "key": "grohe",
+        "name": "Grohe",
+        "slug": "grohe",
+        "productCategory": "Grohe",
+        "localThumb": "/assets/images/hersteller/grohe.webp"
+    },
+    {
+        "key": "vereg",
+        "name": "Vereg",
+        "slug": "vereg",
+        "productCategory": "Vereg",
+        "localThumb": "/assets/images/hersteller/vereg.webp"
+    },
+    {
+        "key": "wenko",
+        "name": "Wenko",
+        "slug": "wenko",
+        "productCategory": "Wenko",
+        "localThumb": "/assets/images/hersteller/wenko.webp"
+    },
+    {
+        "key": "sitzplatz",
+        "name": "Sitzplatz",
+        "slug": "sitzplatz",
+        "productCategory": "Sitzplatz",
+        "localThumb": "/assets/images/hersteller/sitzplatz.webp"
+    },
+    {
+        "key": "schütte",
+        "name": "Schütte",
+        "slug": "schuette",
+        "productCategory": "Schütte",
+        "localThumb": "/assets/images/hersteller/schuette.webp"
+    },
+    {
+        "key": "aquasu",
+        "name": "AquaSu",
+        "slug": "aquasu",
+        "productCategory": "AquaSu",
+        "localThumb": "/assets/images/hersteller/aquasu.webp"
+    },
+    {
+        "key": "ideal standard",
+        "name": "Ideal Standard",
+        "slug": "ideal-standard",
+        "productCategory": "Ideal Standard",
+        "localThumb": "/assets/images/hersteller/ideal-standard.webp"
+    },
+    {
+        "key": "eisl",
+        "name": "Eisl",
+        "slug": "eisl",
+        "productCategory": "Eisl",
+        "localThumb": "/assets/images/hersteller/eisl.webp"
     },
     {
         "key": "sonstige",
@@ -21,66 +91,66 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "yary kidz",
+        "name": "Yary Kidz",
+        "slug": "yary-kidz",
+        "productCategory": "Yary Kidz",
+        "localThumb": "/assets/images/hersteller/yary-kidz.webp"
     },
     {
-        "key": "obi",
-        "name": "OBI",
-        "slug": "obi",
-        "productCategory": "OBI",
-        "localThumb": "/assets/images/hersteller/obi.webp"
+        "key": "lux",
+        "name": "LUX",
+        "slug": "lux",
+        "productCategory": "LUX",
+        "localThumb": "/assets/images/hersteller/lux.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "verosan",
+        "name": "Verosan",
+        "slug": "verosan",
+        "productCategory": "Verosan",
+        "localThumb": "/assets/images/hersteller/verosan.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "verosan+",
+        "name": "Verosan+",
+        "slug": "verosan",
+        "productCategory": "Verosan+",
+        "localThumb": "/assets/images/hersteller/verosan.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
+        "key": "bwo",
+        "name": "BWO",
+        "slug": "bwo",
+        "productCategory": "BWO",
+        "localThumb": "/assets/images/hersteller/bwo.webp"
     },
     {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
+        "key": "msv",
+        "name": "MSV",
+        "slug": "msv",
+        "productCategory": "MSV",
+        "localThumb": "/assets/images/hersteller/msv.webp"
     },
     {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
+        "key": "obi selection",
+        "name": "OBI SELECTION",
+        "slug": "obi-selection",
+        "productCategory": "OBI SELECTION",
+        "localThumb": "/assets/images/hersteller/obi-selection.webp"
     },
     {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
+        "key": "sanitop-wingenroth",
+        "name": "Sanitop-Wingenroth",
+        "slug": "sanitop-wingenroth",
+        "productCategory": "Sanitop-Wingenroth",
+        "localThumb": "/assets/images/hersteller/sanitop-wingenroth.webp"
     },
     {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "mz-podex",
+        "name": "MZ-Podex",
+        "slug": "mz-podex",
+        "productCategory": "MZ-Podex",
+        "localThumb": "/assets/images/hersteller/mz-podex.webp"
     }
 ]
