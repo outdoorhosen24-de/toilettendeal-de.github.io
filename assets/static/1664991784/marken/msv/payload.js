@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/msv", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/wc-sitz-seauville-grau-braun-duroplast-msv-1624097-1.jpg":"\u002Fassets\u002Fimages\u002Fwc-sitz-seauville-grau-braun-duroplast-msv-1624097-1.webp"}}],fetch:{},mutations:void 0});

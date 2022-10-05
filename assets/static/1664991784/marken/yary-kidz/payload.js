@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/yary-kidz", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/yary-kidz-kinder-wc-sitz-polypropylen-weisz-yary-kidz-8496663-1.jpg":"\u002Fassets\u002Fimages\u002Fyary-kidz-kinder-wc-sitz-polypropylen-weisz-yary-kidz-8496663-1.webp"}}],fetch:{},mutations:void 0});
