@@ -1,12 +1,12 @@
 {
-    "configIsReady": true,
+    "configIsReady": false,
     "domain": "toilettendeal.de",
     "hostname": "https://www.toilettendeal.de/",
     "email": "toilettendeal.desurrealnetworks.io",
     "organization": "toilettendeal.de",
     "logoText": "Toilettendeal.de",
     "title": "Toiletten",
-    "subline": "Der Online Shop f\u00fcr Toiletten",
+    "subline": "Der Online Shop für Toiletten",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,48 +46,48 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Toiletten",
-        "featureText": "Das Gesch\u00e4ft ist voll mit Toiletten. Sie sind \u00fcberall, an der Wand, auf dem Boden, in den Regalen. Sie sind in allen Gr\u00f6\u00dfen und Formen. Sie sind aus allen Materialien. Sie sind f\u00fcr alle Gelegenheiten.\n\nToiletten sind wichtig. Sie sind ein Teil unseres t\u00e4glichen Lebens. Wir benutzen sie jeden Tag. Sie sind ein Teil unserer Kultur.\n\nToiletten sind auch ein Gesch\u00e4ft. Menschen verkaufen Toiletten. Sie produzieren Toiletten. Sie installieren Toiletten. Sie reparieren Toiletten.\n\nToiletten sind wichtig. Sie sind ein Teil unseres",
+        "featureText": "Das Geschäft ist voll mit Toiletten. Sie sind überall, an der Wand, auf dem Boden, in den Regalen. Sie sind in allen Größen und Formen. Sie sind aus allen Materialien. Sie sind für alle Gelegenheiten.\n\nToiletten sind wichtig. Sie sind ein Teil unseres täglichen Lebens. Wir benutzen sie jeden Tag. Sie sind ein Teil unserer Kultur.\n\nToiletten sind auch ein Geschäft. Menschen verkaufen Toiletten. Sie produzieren Toiletten. Sie installieren Toiletten. Sie reparieren Toiletten.\n\nToiletten sind wichtig. Sie sind ein Teil unseres",
         "index": {
-            "title": "Toiletten-Shop: Alles f\u00fcr Ihre Toilette!",
-            "metaDescription": "Toilettenbedarf f\u00fcr jeden Haushalt - von WC-B\u00fcrsten \u00fcber Toilettenpapier bis hin zu WC-Reinigern. Alles, was Sie f\u00fcr Ihr WC ben\u00f6tigen!",
+            "title": "Toiletten-Shop: Alles für Ihre Toilette!",
+            "metaDescription": "Toilettenbedarf für jeden Haushalt - von WC-Bürsten über Toilettenpapier bis hin zu WC-Reinigern. Alles, was Sie für Ihr WC benötigen!",
             "robots": "index, follow",
             "texts": [
                 {
                     "title": "Toiletten: Wo man sich erleichtern kann",
-                    "text": "Die Toilette ist ein wichtiges Sanit\u00e4rprodukt in unserem t\u00e4glichen Leben. Es ist ein Ort, an dem wir unseren K\u00f6rper von Schmutz und Abfall befreien und uns erleichtern k\u00f6nnen. Die Toilette ist auch ein wichtiger Ort f\u00fcr die Gesundheit. Viele Krankheiten werden durch schmutziges Wasser \u00fcbertragen, und eine saubere Toilette ist ein wesentlicher Bestandteil eines gesunden Haushalts.\n\nEs gibt verschiedene Arten von Toiletten, aber die zwei Haupttypen sind die sitzende Toilette und die stehende Toilette. Die sitzende Toilette ist die am weitesten verbreitete Art von Toilette. Sie wird auch als WC oder WC bezeichnet. Die stehende Toilette ist in vielen L\u00e4ndern nicht so weit verbreitet wie die sitzende Toilette, aber sie gewinnt allm\u00e4hlich an Popularit\u00e4t.\n\nEine Toilette besteht aus einem Becken, in das das Wasser eingelassen wird, und einem Sitz, auf den man sich setzen kann. Die Toilette wird mit einem Sp\u00fclkasten verbunden, in dem das Wasser gespeichert wird. Wenn Sie auf die Toilette gehen, dr\u00fccken Sie den Knopf am Sp\u00fclkasten, und das Wasser flie\u00dft in das Becken und sp\u00fclt die Abf\u00e4lle weg.\n\nDie Toilette wird auch mit einem Abfluss verbunden, der das Wasser aus dem Becken in ein Rohr leitet, das in ein Kl\u00e4rbecken oder eine andere Entsorgungseinrichtung f\u00fchrt. Die Toilette hat auch einen Deckel"
+                    "text": "Die Toilette ist ein wichtiges Sanitärprodukt in unserem täglichen Leben. Es ist ein Ort, an dem wir unseren Körper von Schmutz und Abfall befreien und uns erleichtern können. Die Toilette ist auch ein wichtiger Ort für die Gesundheit. Viele Krankheiten werden durch schmutziges Wasser übertragen, und eine saubere Toilette ist ein wesentlicher Bestandteil eines gesunden Haushalts.\n\nEs gibt verschiedene Arten von Toiletten, aber die zwei Haupttypen sind die sitzende Toilette und die stehende Toilette. Die sitzende Toilette ist die am weitesten verbreitete Art von Toilette. Sie wird auch als WC oder WC bezeichnet. Die stehende Toilette ist in vielen Ländern nicht so weit verbreitet wie die sitzende Toilette, aber sie gewinnt allmählich an Popularität.\n\nEine Toilette besteht aus einem Becken, in das das Wasser eingelassen wird, und einem Sitz, auf den man sich setzen kann. Die Toilette wird mit einem Spülkasten verbunden, in dem das Wasser gespeichert wird. Wenn Sie auf die Toilette gehen, drücken Sie den Knopf am Spülkasten, und das Wasser fließt in das Becken und spült die Abfälle weg.\n\nDie Toilette wird auch mit einem Abfluss verbunden, der das Wasser aus dem Becken in ein Rohr leitet, das in ein Klärbecken oder eine andere Entsorgungseinrichtung führt. Die Toilette hat auch einen Deckel"
                 }
             ]
         },
         "shop": {
             "title": "Toiletten Shop",
-            "metaDescription": "Toiletten Shop - Hier findest du alles rund um das Thema Toiletten. Von Toilettenpapier \u00fcber WC-B\u00fcrsten bis hin zu Toilettenreinigern.",
+            "metaDescription": "Toiletten Shop - Hier findest du alles rund um das Thema Toiletten. Von Toilettenpapier über WC-Bürsten bis hin zu Toilettenreinigern.",
             "robots": "index, follow"
         },
         "hersteller": {
             "title": "Toiletten-Hersteller",
-            "metaDescription": "Toiletten-Hersteller bieten eine Vielzahl von Toiletten-Modellen f\u00fcr jeden Bedarf. Finden Sie die richtige Toilette f\u00fcr Ihr Zuhause oder Ihr Unternehmen.",
+            "metaDescription": "Toiletten-Hersteller bieten eine Vielzahl von Toiletten-Modellen für jeden Bedarf. Finden Sie die richtige Toilette für Ihr Zuhause oder Ihr Unternehmen.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Toiletten: $PRODUKT f\u00fcr die beste Hygiene",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte L\u00f6sung f\u00fcr Ihr $KATEGORIE Problem. Schnell und einfach zu installieren.",
+        "defaultTitle": "Toiletten: $PRODUKT für die beste Hygiene",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Lösung für Ihr $KATEGORIE Problem. Schnell und einfach zu installieren.",
         "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
                 "name": "Ortovox PALA PANTS Kletterhose",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
                     "robots": "index, follow"
                 }
             }
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Toiletten: $KATEGORIE f\u00fcr jeden Bedarf",
-        "defaultMetaDescription": "Toiletten$KATEGORIE: Finde die beste Toilette f\u00fcr dich - von WCs \u00fcber Dusch-WCs bis hin zu Urinale. Wir haben die besten Toiletten f\u00fcr jeden Bedarf.",
+        "defaultTitle": "Toiletten: $KATEGORIE für jeden Bedarf",
+        "defaultMetaDescription": "Toiletten$KATEGORIE: Finde die beste Toilette für dich - von WCs über Dusch-WCs bis hin zu Urinale. Wir haben die besten Toiletten für jeden Bedarf.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -95,8 +95,8 @@
                 "slug": "sporthosen",
                 "name": "Sporthosen",
                 "seo": {
-                    "title": "Sporthosen g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
                     "robots": "index, follow",
                     "texts": [
                         {
@@ -114,15 +114,15 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist eine der f\u00fchrenden Marken f\u00fcr Toiletten. Hier findest du alle Informationen \u00fcber die Produkte und die Marke.",
+        "defaultMetaDescription": "$HERSTELLER ist eine der führenden Marken für Toiletten. Hier findest du alle Informationen über die Produkte und die Marke.",
         "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
-                    "title": "Produkte von Palm g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
                     "robots": "index, follow"
                 }
             }
