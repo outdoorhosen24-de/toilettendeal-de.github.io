@@ -51,12 +51,15 @@
             "title": "Toiletten-Shop: Alles für Ihre Toilette!",
             "metaDescription": "Toilettenbedarf für jeden Haushalt - von WC-Bürsten über Toilettenpapier bis hin zu WC-Reinigern. Alles, was Sie für Ihr WC benötigen!",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Toiletten: Wo man sich erleichtern kann",
-                    "text": "Die Toilette ist ein wichtiges Sanitärprodukt in unserem täglichen Leben. Es ist ein Ort, an dem wir unseren Körper von Schmutz und Abfall befreien und uns erleichtern können. Die Toilette ist auch ein wichtiger Ort für die Gesundheit. Viele Krankheiten werden durch schmutziges Wasser übertragen, und eine saubere Toilette ist ein wesentlicher Bestandteil eines gesunden Haushalts.\n\nEs gibt verschiedene Arten von Toiletten, aber die zwei Haupttypen sind die sitzende Toilette und die stehende Toilette. Die sitzende Toilette ist die am weitesten verbreitete Art von Toilette. Sie wird auch als WC oder WC bezeichnet. Die stehende Toilette ist in vielen Ländern nicht so weit verbreitet wie die sitzende Toilette, aber sie gewinnt allmählich an Popularität.\n\nEine Toilette besteht aus einem Becken, in das das Wasser eingelassen wird, und einem Sitz, auf den man sich setzen kann. Die Toilette wird mit einem Spülkasten verbunden, in dem das Wasser gespeichert wird. Wenn Sie auf die Toilette gehen, drücken Sie den Knopf am Spülkasten, und das Wasser fließt in das Becken und spült die Abfälle weg.\n\nDie Toilette wird auch mit einem Abfluss verbunden, der das Wasser aus dem Becken in ein Rohr leitet, das in ein Klärbecken oder eine andere Entsorgungseinrichtung führt. Die Toilette hat auch einen Deckel"
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Toiletten: Wo man sich erleichtern kann",
+                        "text": "Die Toilette ist ein wichtiges Sanitärprodukt in unserem täglichen Leben. Es ist ein Ort, an dem wir unseren Körper von Schmutz und Abfall befreien und uns erleichtern können. Die Toilette ist auch ein wichtiger Ort für die Gesundheit. Viele Krankheiten werden durch schmutziges Wasser übertragen, und eine saubere Toilette ist ein wesentlicher Bestandteil eines gesunden Haushalts.\n\nEs gibt verschiedene Arten von Toiletten, aber die zwei Haupttypen sind die sitzende Toilette und die stehende Toilette. Die sitzende Toilette ist die am weitesten verbreitete Art von Toilette. Sie wird auch als WC oder WC bezeichnet. Die stehende Toilette ist in vielen Ländern nicht so weit verbreitet wie die sitzende Toilette, aber sie gewinnt allmählich an Popularität.\n\nEine Toilette besteht aus einem Becken, in das das Wasser eingelassen wird, und einem Sitz, auf den man sich setzen kann. Die Toilette wird mit einem Spülkasten verbunden, in dem das Wasser gespeichert wird. Wenn Sie auf die Toilette gehen, drücken Sie den Knopf am Spülkasten, und das Wasser fließt in das Becken und spült die Abfälle weg.\n\nDie Toilette wird auch mit einem Abfluss verbunden, der das Wasser aus dem Becken in ein Rohr leitet, das in ein Klärbecken oder eine andere Entsorgungseinrichtung führt. Die Toilette hat auch einen Deckel"
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Toiletten Shop",
