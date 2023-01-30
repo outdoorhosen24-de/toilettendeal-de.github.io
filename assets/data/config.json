@@ -1,5 +1,5 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "toilettendeal.de",
     "hostname": "https://www.toilettendeal.de/",
     "email": "toilettendeal.de@surrealnetworks.io",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Toiletten",
-        "featureText": "Das Geschäft ist voll mit Toiletten. Sie sind überall, an der Wand, auf dem Boden, in den Regalen. Sie sind in allen Größen und Formen. Sie sind aus allen Materialien. Sie sind für alle Gelegenheiten.\n\nToiletten sind wichtig. Sie sind ein Teil unseres täglichen Lebens. Wir benutzen sie jeden Tag. Sie sind ein Teil unserer Kultur.\n\nToiletten sind auch ein Geschäft. Menschen verkaufen Toiletten. Sie produzieren Toiletten. Sie installieren Toiletten. Sie reparieren Toiletten.\n\nToiletten sind wichtig. Sie sind ein Teil unseres",
+        "featureText": "Willkommen in unserem Shop! Sie sind auf der Suche nach der passenden Toilette? Bei uns werden Sie sie finden! \nUnser Shop bietet ein breites Sortiment an Toiletten in sämtlichen Designs und für verschiedenste Bereiche. Bei der Zusammenstellung unseres Shops achten wir stets auf hohe Qualitätsstandards. So finden Sie Top Anbieter wie Duravit, Geberit, Villeroy & Boch und viele weitere. ",
         "index": {
-            "title": "Toiletten-Shop: Alles für Ihre Toilette!",
-            "metaDescription": "Toilettenbedarf für jeden Haushalt - von WC-Bürsten über Toilettenpapier bis hin zu WC-Reinigern. Alles, was Sie für Ihr WC benötigen!",
+            "title": "Toiletten günstiger kaufen | Toilettendeal.de",
+            "metaDescription": "Umfangreiches Sortiment an Toiletten & Zubehör | Wand-WCs, Sitz-WCs, Urinale, Bidets, WC-Sitze, Kinder-Toilettensitze uvm. | Günstig von zuhause bestellen.",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Toiletten Shop",
-            "metaDescription": "Toiletten Shop - Hier findest du alles rund um das Thema Toiletten. Von Toilettenpapier über WC-Bürsten bis hin zu Toilettenreinigern.",
+            "title": "Toilettendeal.de | Der Shop mit den besten Toilettenpreisen",
+            "metaDescription": "Bei uns erhältlich | Breites Sortiment an Toiletten & Zubehör in unserem Shop | Einfache Produktsuche | Top Anbieter | Günstige Preise | Schnelle Lieferung",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Toiletten-Hersteller",
-            "metaDescription": "Toiletten-Hersteller bieten eine Vielzahl von Toiletten-Modellen für jeden Bedarf. Finden Sie die richtige Toilette für Ihr Zuhause oder Ihr Unternehmen.",
+            "title": "Alle Hersteller für qualitative Toiletten | Toilettendeal.de",
+            "metaDescription": "Eine Auflistung an Top Herstellern für Toiletten & Zubehör auf einen Blick | Anbieter wie: Villeroy & Boch, Duravit, Baliv Geberit und mehr | Bei uns erhältlich",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Toiletten: $PRODUKT für die beste Hygiene",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Lösung für Ihr $KATEGORIE Problem. Schnell und einfach zu installieren.",
+        "defaultTitle": "$PRODUKT | Toilettendeal.de",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist marktführendes Produkt in der Kategorie $KATEGORIE! | Schnell und einfach zu installieren! | Bei uns im Shop erhältlich! ",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Toiletten: $KATEGORIE für jeden Bedarf",
-        "defaultMetaDescription": "Toiletten$KATEGORIE: Finde die beste Toilette für dich - von WCs über Dusch-WCs bis hin zu Urinale. Wir haben die besten Toiletten für jeden Bedarf.",
+        "defaultTitle": "$KATEGORIE shoppen auf Toilettendeal.de",
+        "defaultMetaDescription": "$KATEGORIE: Umfangreiche Auswahl an Toiletten & Zubehör bei uns im Shop! | Finden Sie die beste Toilette | Günstig online bestellen auf Toilettendeal.de.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist eine der führenden Marken für Toiletten. Hier findest du alle Informationen über die Produkte und die Marke.",
+        "defaultTitle": "$HERSTELLER - Qualität zum fairen Preis",
+        "defaultMetaDescription": "$HERSTELLER ist eine der führenden Marken für Toiletten. Hier finden Sie viele Produkte der Marke $HERSTELLER, sowie weitere namhafte Hersteller für Toiletten.",
         "defaultRobots": "index, follow",
         "brands": [
             {
