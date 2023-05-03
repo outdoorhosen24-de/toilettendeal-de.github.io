@@ -6,7 +6,7 @@
   "organization": "toilettendeal.de",
   "logoText": "Toilettendeal.de",
   "title": "Toiletten",
-  "subline": "Der Online Shop f\u00fcr Toiletten",
+  "subline": "Der Online Shop für Toiletten",
   "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
   "imageFolder": "/assets/images/images/",
   "productUrl": "/produkt/",
@@ -46,91 +46,168 @@
   "seo": {
     "htmlLang": "de",
     "mainKeyword": "Toiletten",
-    "featureText": "Willkommen in unserem Shop! Sie sind auf der Suche nach der passenden Toilette? Bei uns werden Sie sie finden! \nUnser Shop bietet ein breites Sortiment an Toiletten in s\u00e4mtlichen Designs und f\u00fcr verschiedenste Bereiche. Bei der Zusammenstellung unseres Shops achten wir stets auf hohe Qualit\u00e4tsstandards. So finden Sie Top Anbieter wie Duravit, Geberit, Villeroy & Boch und viele weitere. ",
+    "featureText": "Willkommen in unserem Shop! Sie sind auf der Suche nach der passenden Toilette? Bei uns werden Sie sie finden! \nUnser Shop bietet ein breites Sortiment an Toiletten in sämtlichen Designs und für verschiedenste Bereiche. Bei der Zusammenstellung unseres Shops achten wir stets auf hohe Qualitätsstandards. So finden Sie Top Anbieter wie Duravit, Geberit, Villeroy & Boch und viele weitere. ",
     "index": {
-      "title": "Toiletten g\u00fcnstiger kaufen | Toilettendeal.de",
-      "metaDescription": "Umfangreiches Sortiment an Toiletten & Zubeh\u00f6r | Wand-WCs, Sitz-WCs, Urinale, Bidets, WC-Sitze, Kinder-Toilettensitze uvm. | G\u00fcnstig von zuhause bestellen.",
+      "title": "Toiletten günstiger kaufen | Toilettendeal.de",
+      "metaDescription": "Umfangreiches Sortiment an Toiletten & Zubehör | Wand-WCs, Sitz-WCs, Urinale, Bidets, WC-Sitze, Kinder-Toilettensitze uvm. | Günstig von zuhause bestellen.",
       "robots": "index, follow",
       "seotext": {
         "published": true,
         "content": [
           {
             "title": "Willkommen bei Toilettendeal.de",
-            "text": "Wir bei Toilettendeal.de verstehen, wie wichtig es ist, eine bequeme und hygienische Toilette zu Hause zu haben. Deshalb bieten wir eine breite Auswahl an hochwertigen WC-Produkten, darunter WC-Sitze, WCs, Wand-WCs, Bidets, WC-Sets, Stand-WCs, Dusch-WCs, Urinale, Kinder-Toilettensitze und Zubeh\u00f6r f\u00fcr Toilettensitze. Alle unsere Produkte sind von h\u00f6chster Qualit\u00e4t und zu erschwinglichen Preisen erh\u00e4ltlich. Besuchen Sie uns jetzt und finden Sie das perfekte WC-Produkt f\u00fcr Ihr Zuhause."
+            "text": "Wir bei Toilettendeal.de verstehen, wie wichtig es ist, eine bequeme und hygienische Toilette zu Hause zu haben. Deshalb bieten wir eine breite Auswahl an hochwertigen WC-Produkten, darunter WC-Sitze, WCs, Wand-WCs, Bidets, WC-Sets, Stand-WCs, Dusch-WCs, Urinale, Kinder-Toilettensitze und Zubehör für Toilettensitze. Alle unsere Produkte sind von höchster Qualität und zu erschwinglichen Preisen erhältlich. Besuchen Sie uns jetzt und finden Sie das perfekte WC-Produkt für Ihr Zuhause."
           },
           {
             "title": "WC-Sitze bei ToilettenDeal",
-            "text": "WC-Sitze sind ein wichtiger Bestandteil einer Toilette. Sie bieten Komfort und Hygiene und k\u00f6nnen durch unterschiedliche Designs und Farben auch optisch aufgewertet werden. Bei ToilettenDeal finden Sie eine gro\u00dfe Auswahl an WC-Sitzen in verschiedenen Ausf\u00fchrungen, Materialien und Designs. Ob Klobrille aus Holz, Kunststoff oder Edelstahl \u2013 wir haben f\u00fcr jeden Geschmack das passende WC-Sitzmodell."
+            "text": "WC-Sitze sind ein wichtiger Bestandteil einer Toilette. Sie bieten Komfort und Hygiene und können durch unterschiedliche Designs und Farben auch optisch aufgewertet werden. Bei ToilettenDeal finden Sie eine große Auswahl an WC-Sitzen in verschiedenen Ausführungen, Materialien und Designs. Ob Klobrille aus Holz, Kunststoff oder Edelstahl – wir haben für jeden Geschmack das passende WC-Sitzmodell."
           },
           {
             "title": "WCs bei ToilettenDeal",
-            "text": "Eine Toilette ist ein unverzichtbares M\u00f6belst\u00fcck in jedem Badezimmer. Bei ToilettenDeal finden Sie eine gro\u00dfe Auswahl an verschiedenen WC-Modellen, von Wand-WCs bis hin zu Stand-WCs. Wir bieten WCs in verschiedenen Gr\u00f6\u00dfen und Designs, um jedem Badezimmerstil gerecht zu werden. Unsere WCs sind robust, langlebig und lassen sich einfach reinigen, damit Sie lange Freude an Ihrer Toilette haben."
+            "text": "Eine Toilette ist ein unverzichtbares Möbelstück in jedem Badezimmer. Bei ToilettenDeal finden Sie eine große Auswahl an verschiedenen WC-Modellen, von Wand-WCs bis hin zu Stand-WCs. Wir bieten WCs in verschiedenen Größen und Designs, um jedem Badezimmerstil gerecht zu werden. Unsere WCs sind robust, langlebig und lassen sich einfach reinigen, damit Sie lange Freude an Ihrer Toilette haben."
           },
           {
             "title": "Wand-WCs bei ToilettenDeal",
-            "text": "Wand-WCs sind eine praktische und platzsparende Alternative zu traditionellen Stand-WCs. Sie sind besonders geeignet f\u00fcr kleine Badezimmer, da sie weniger Platz beanspruchen und einfach zu installieren sind. Bei ToilettenDeal finden Sie eine gro\u00dfe Auswahl an Wand-WCs in verschiedenen Ausf\u00fchrungen und Designs. Ob Sie ein modernes oder eher klassisches Badezimmer bevorzugen, bei uns werden Sie f\u00fcndig."
+            "text": "Wand-WCs sind eine praktische und platzsparende Alternative zu traditionellen Stand-WCs. Sie sind besonders geeignet für kleine Badezimmer, da sie weniger Platz beanspruchen und einfach zu installieren sind. Bei ToilettenDeal finden Sie eine große Auswahl an Wand-WCs in verschiedenen Ausführungen und Designs. Ob Sie ein modernes oder eher klassisches Badezimmer bevorzugen, bei uns werden Sie fündig."
           },
           {
             "title": "Bidets",
-            "text": "<a href=\"/kategorie/bidets/\" title=\"Bidets\">Bidets</a> - das Plus an Hygiene f\u00fcr Ihre Toilette. Entdecken Sie unser umfangreiches Angebot an hochwertigen Bidets. Ob als Stand- oder Wandmodell, bei ToilettenDeal finden Sie garantiert das passende Bidet f\u00fcr Ihr Badezimmer. \u00dcberzeugen Sie sich selbst von unseren Produkten und bestellen Sie noch heute Ihr neues Bidet. "
+            "text": "<a href=\"/kategorie/bidets/\" title=\"Bidets\">Bidets</a> - das Plus an Hygiene für Ihre Toilette. Entdecken Sie unser umfangreiches Angebot an hochwertigen Bidets. Ob als Stand- oder Wandmodell, bei ToilettenDeal finden Sie garantiert das passende Bidet für Ihr Badezimmer. Überzeugen Sie sich selbst von unseren Produkten und bestellen Sie noch heute Ihr neues Bidet. "
           },
           {
             "title": "WC-Sets",
-            "text": "<a href=\"/kategorie/wc-sets/\" title=\"WC-Sets\">WC-Sets</a> - der komfortable Weg zu einer neuen Toilette. Entdecken Sie unser gro\u00dfes Angebot an WC-Sets und finden Sie das perfekte Set f\u00fcr Ihr Badezimmer. Ob als Stand- oder Wand-WC, bei ToilettenDeal finden Sie garantiert das passende WC-Set. \u00dcberzeugen Sie sich selbst von unseren hochwertigen Produkten und bestellen Sie noch heute Ihr neues WC-Set."
+            "text": "<a href=\"/kategorie/wc-sets/\" title=\"WC-Sets\">WC-Sets</a> - der komfortable Weg zu einer neuen Toilette. Entdecken Sie unser großes Angebot an WC-Sets und finden Sie das perfekte Set für Ihr Badezimmer. Ob als Stand- oder Wand-WC, bei ToilettenDeal finden Sie garantiert das passende WC-Set. Überzeugen Sie sich selbst von unseren hochwertigen Produkten und bestellen Sie noch heute Ihr neues WC-Set."
           },
           {
             "title": "Stand-WCs",
-            "text": "<a href=\"/kategorie/stand-wcs/\" title=\"Stand-WCs\">Stand-WCs</a> - der Klassiker f\u00fcr jedes Badezimmer. Entdecken Sie unser umfangreiches Angebot an Stand-WCs und finden Sie das perfekte WC f\u00fcr Ihr Badezimmer. Ob modern oder klassisch, bei ToilettenDeal finden Sie garantiert das passende Stand-WC. \u00dcberzeugen Sie sich selbst von unseren hochwertigen Produkten und bestellen Sie noch heute Ihr neues Stand-WC."
+            "text": "<a href=\"/kategorie/stand-wcs/\" title=\"Stand-WCs\">Stand-WCs</a> - der Klassiker für jedes Badezimmer. Entdecken Sie unser umfangreiches Angebot an Stand-WCs und finden Sie das perfekte WC für Ihr Badezimmer. Ob modern oder klassisch, bei ToilettenDeal finden Sie garantiert das passende Stand-WC. Überzeugen Sie sich selbst von unseren hochwertigen Produkten und bestellen Sie noch heute Ihr neues Stand-WC."
           },
           {
             "title": "Dusch-WCs",
-            "text": "Entdecken Sie eine neue Art der Hygiene mit den <a href=\"/kategorie/dusch-wcs/\" title=\"Dusch-WCs\">Dusch-WCs</a> von Toilettendeal. Unsere hochwertigen Dusch-WCs bieten Ihnen eine luxuri\u00f6se und bequeme Reinigungserfahrung. Ob Sie ein einfaches Upgrade Ihres Badezimmers oder eine komplette Neugestaltung planen, wir haben eine gro\u00dfe Auswahl an Dusch-WCs in verschiedenen Stilen und Preisklassen. St\u00f6bern Sie jetzt durch unser Sortiment und finden Sie das perfekte Dusch-WC f\u00fcr Ihr Zuhause."
+            "text": "Entdecken Sie eine neue Art der Hygiene mit den <a href=\"/kategorie/dusch-wcs/\" title=\"Dusch-WCs\">Dusch-WCs</a> von Toilettendeal. Unsere hochwertigen Dusch-WCs bieten Ihnen eine luxuriöse und bequeme Reinigungserfahrung. Ob Sie ein einfaches Upgrade Ihres Badezimmers oder eine komplette Neugestaltung planen, wir haben eine große Auswahl an Dusch-WCs in verschiedenen Stilen und Preisklassen. Stöbern Sie jetzt durch unser Sortiment und finden Sie das perfekte Dusch-WC für Ihr Zuhause."
           },
           {
             "title": "Urinale",
-            "text": "Optimieren Sie Ihr Badezimmer mit einem Urinal von Toilettendeal. Unsere hochwertigen <a href=\"/kategorie/urinale/\" title=\"Urinale\">Urinale</a> bieten eine hygienische und effiziente L\u00f6sung f\u00fcr Ihr Badezimmer. Ob Sie ein einfaches Upgrade oder eine komplette Neugestaltung planen, wir haben eine gro\u00dfe Auswahl an Urinalen in verschiedenen Stilen und Gr\u00f6\u00dfen. St\u00f6bern Sie jetzt durch unser Sortiment und finden Sie das perfekte Urinal f\u00fcr Ihr Zuhause."
+            "text": "Optimieren Sie Ihr Badezimmer mit einem Urinal von Toilettendeal. Unsere hochwertigen <a href=\"/kategorie/urinale/\" title=\"Urinale\">Urinale</a> bieten eine hygienische und effiziente Lösung für Ihr Badezimmer. Ob Sie ein einfaches Upgrade oder eine komplette Neugestaltung planen, wir haben eine große Auswahl an Urinalen in verschiedenen Stilen und Größen. Stöbern Sie jetzt durch unser Sortiment und finden Sie das perfekte Urinal für Ihr Zuhause."
           },
           {
             "title": "Kinder-Toilettensitze",
-            "text": "Machen Sie das Toilettengang f\u00fcr Kinder zu einem angenehmen Erlebnis mit <a href=\"/kategorie/kinder-toilettensitze/\" title=\"Kinder-Toilettensitze\">Kinder-Toilettensitze</a>n von Toilettendeal. Unsere hochwertigen Kinder-Toilettensitze bieten eine bequeme und sichere L\u00f6sung f\u00fcr die kleinen Badezimmerbenutzer. Ob Sie ein einfaches Upgrade oder eine komplette Neugestaltung planen, wir haben eine gro\u00dfe Auswahl an Kinder-Toilettensitzen in verschiedenen Farben und Designs. St\u00f6bern Sie jetzt durch unser Sortiment und finden Sie den perfekten Kinder-Toilettensitz f\u00fcr Ihr Zuhause."
+            "text": "Machen Sie das Toilettengang für Kinder zu einem angenehmen Erlebnis mit <a href=\"/kategorie/kinder-toilettensitze/\" title=\"Kinder-Toilettensitze\">Kinder-Toilettensitze</a>n von Toilettendeal. Unsere hochwertigen Kinder-Toilettensitze bieten eine bequeme und sichere Lösung für die kleinen Badezimmerbenutzer. Ob Sie ein einfaches Upgrade oder eine komplette Neugestaltung planen, wir haben eine große Auswahl an Kinder-Toilettensitzen in verschiedenen Farben und Designs. Stöbern Sie jetzt durch unser Sortiment und finden Sie den perfekten Kinder-Toilettensitz für Ihr Zuhause."
           },
           {
-            "title": "Zubeh\u00f6r f\u00fcr Toilettensitze",
-            "text": "Entdecken Sie unser vielf\u00e4ltiges Angebot an <a href=\"/kategorie/zubehoer-fuer-toilettensitze/\" title=\"Zubeh\u00f6r f\u00fcr Toilettensitze\">Zubeh\u00f6r f\u00fcr Toilettensitze</a>. Wir bieten eine gro\u00dfe Auswahl an Ersatzteilen und Zubeh\u00f6r, von Befestigungen \u00fcber Reinigungsprodukte bis hin zu Armlehnen. St\u00f6bern Sie durch unsere Produkte und finden Sie das perfekte Zubeh\u00f6r f\u00fcr Ihren Toilettensitz. Unsere hochwertigen Produkte sorgen f\u00fcr eine lange Lebensdauer und eine einfache Reinigung. \u00dcberzeugen Sie sich selbst von der Qualit\u00e4t unserer Produkte und bestellen Sie noch heute bei toilettendeal.de."
+            "title": "Zubehör für Toilettensitze",
+            "text": "Entdecken Sie unser vielfältiges Angebot an <a href=\"/kategorie/zubehoer-fuer-toilettensitze/\" title=\"Zubehör für Toilettensitze\">Zubehör für Toilettensitze</a>. Wir bieten eine große Auswahl an Ersatzteilen und Zubehör, von Befestigungen über Reinigungsprodukte bis hin zu Armlehnen. Stöbern Sie durch unsere Produkte und finden Sie das perfekte Zubehör für Ihren Toilettensitz. Unsere hochwertigen Produkte sorgen für eine lange Lebensdauer und eine einfache Reinigung. Überzeugen Sie sich selbst von der Qualität unserer Produkte und bestellen Sie noch heute bei toilettendeal.de."
           }
         ]
       }
     },
     "shop": {
       "title": "Toilettendeal.de | Der Shop mit den besten Toilettenpreisen",
-      "metaDescription": "Bei uns erh\u00e4ltlich | Breites Sortiment an Toiletten & Zubeh\u00f6r in unserem Shop | Einfache Produktsuche | Top Anbieter | G\u00fcnstige Preise | Schnelle Lieferung",
+      "metaDescription": "Bei uns erhältlich | Breites Sortiment an Toiletten & Zubehör in unserem Shop | Einfache Produktsuche | Top Anbieter | Günstige Preise | Schnelle Lieferung",
       "robots": "index, follow"
     },
     "hersteller": {
-      "title": "Alle Hersteller f\u00fcr qualitative Toiletten | Toilettendeal.de",
-      "metaDescription": "Eine Auflistung an Top Herstellern f\u00fcr Toiletten & Zubeh\u00f6r auf einen Blick | Anbieter wie: Villeroy & Boch, Duravit, Baliv Geberit und mehr | Bei uns erh\u00e4ltlich",
+      "title": "Alle Hersteller für qualitative Toiletten | Toilettendeal.de",
+      "metaDescription": "Eine Auflistung an Top Herstellern für Toiletten & Zubehör auf einen Blick | Anbieter wie: Villeroy & Boch, Duravit, Baliv Geberit und mehr | Bei uns erhältlich",
       "robots": "index, follow"
     }
   },
   "productSeo": {
     "defaultTitle": "$PRODUKT | Toilettendeal.de",
-    "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist marktf\u00fchrendes Produkt in der Kategorie $KATEGORIE! | Schnell und einfach zu installieren! | Bei uns im Shop erh\u00e4ltlich! ",
+    "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist marktführendes Produkt in der Kategorie $KATEGORIE! | Schnell und einfach zu installieren! | Bei uns im Shop erhältlich! ",
     "defaultRobots": "index, follow",
     "products": [
       {
         "sku": "5637909794",
         "name": "Ortovox PALA PANTS Kletterhose",
         "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
           "robots": "index, follow"
+        }
+      },
+      {
+        "sku": "5163001",
+        "seo": {
+          "texts": [
+            {
+              "title": "Geberit Stand-WC Vitalis Flachspüler Abg. horiz. Weiß 5163001",
+              "text": "<p class=\"justify\">Entdecken Sie das Geberit Stand-WC Vitalis Flachspüler Abg. horiz. Weiß (SKU: 5163001), ein hochwertiges Stand-WC der bekannten Marke Geberit. Dieses Produkt eignet sich perfekt für Ihr Badezimmer und fügt sich harmonisch in jedes Raumkonzept ein. Das Stand-WC Vitalis Flachspüler ist in der modernen und zeitlosen Farbe Weiß erhältlich und punktet mit vielen erstklassigen Funktionen und einem eleganten Design.</p><p class=\"justify\">Eine der herausragenden Eigenschaften dieses Stand-WCs ist die erhöhte Sitzfläche, die insbesondere für größere Personen konzipiert ist und somit ein komfortableres Nutzungserlebnis schafft. Des Weiteren kann das WC sowohl mit UP-Spülkästen als auch mit tief-, halbhoch-, und hochhängenden AP-Spülkästen verwendet werden, was es äußerst vielseitig und flexibel macht. Darüber hinaus ist es auch möglich, das WC mit einem Druckspüler zu verwenden. Als Flachspüler mit Spülrand reduziert das WC Spritzer, was sowohl den Komfort als auch die Hygiene im Badezimmer erhöht.</p><p class=\"justify\">Die vielseitige Einsetzbarkeit des Geberit Stand-WC Vitalis Flachspüler Abg. horiz. Weiß reicht von der Nutzung mit UP-Spülkästen über Druckspüler bis hin zur Verwendung mit AP-Spülkästen, falls Wandarbeiten nicht durchführbar sind. Der Wasserabgang erfolgt stets horizontal und das Spül-Vollmenge beträgt 6 l. Die Abmessungen des Stand-WCs betragen 460 mm x 355 mm x 460 mm (H x B x T), wodurch es in fast alle Badezimmer passt.</p><p class=\"justify\">Das Geberit Stand-WC Vitalis Flachspüler Abg. horiz. Weiß (GTIN13: 4022009021844) erfreut sich einer großen Beliebtheit und hat bei einer Anzahl von 87 Bewertungen eine durchschnittliche Bewertung von 5 Sternen erhalten. Entscheiden Sie sich für dieses herausragende Stand-WC und bringen Sie Qualität und Komfort in Ihr Badezimmer. Genießen Sie die Vorteile, die das Geberit Stand-WC Vitalis Flachspüler Abg. horiz. Weiß 5163001 zu bieten hat, und lassen Sie sich von seinem eleganten Design und seinen exzellenten Funktionen überzeugen.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "5165048",
+        "seo": {
+          "texts": [
+            {
+              "title": "Geberit Wandurinal Renova Zulauf Ablauf hinten Spülrand Weiß: Eine moderne und umweltfreundliche Lösung",
+              "text": "<p class=\"justify\">Das Geberit Wandurinal Renova ist eine innovative und vielseitige Lösung für Ihr Badezimmer. Dieses Wandurinal aus Sanitärkeramik ist sehr wirtschaftlich, wartungsarm und pflegeleicht dank seiner geschlossenen Außenform. Es lässt sich leicht reinigen, wodurch Spritzer durch den Spülrand keine Chance haben, und Sie müssen sich keine Sorgen um unschöne Flecken auf der Kleidung machen.</p><p class=\"justify\">Das Geberit Wandurinal Renova ist äußerst wassersparend, da es mit der Geberit Flushcontrol nur 1 Liter Wasser pro Spülung benötigt, und erfüllt somit selbst höchste Ansprüche an Ökonomie und Ökologie. Der Zulauf der UP-Urinalsteuerung erfolgt von oben, während die Zu- und Abläufe nach hinten gelegt werden. Dies garantiert eine einfache und diskrete Integration in das bestehende Badezimmerdesign.</p><p class=\"justify\">Für eine besonders einfache Montage und Demontage sorgt das Kerafix-Wandbefestigungssystem, das gleichzeitig alle Befestigungselemente verbirgt. Zusammen mit dem versteckten Geruchsverschluss ergibt sich ein makelloses Äußeres, das die Wartung vereinfacht und zu einem angenehmen Ambiente im Badezimmer beiträgt.</p><p class=\"justify\">Die Renova-Badserie von Geberit überzeugt durch ein klassisches Design, das selbst bei einem geringen Platzangebot äußerst wandlungsfähig ist. In Kombination mit anderen Produkten aus der Serie lässt sich eine individuell angepasste Lösung zusammenstellen, die in jedes Badezimmer passt und einen harmonischen Gesamteindruck erzeugt.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "4406732",
+        "seo": {
+          "texts": [
+            {
+              "title": "WC-Sitz Kamoa Holzkern Schwarz Steinoptik - Eleganz und Stärke vereint",
+              "text": "<p class=\"justify\">Der WC-Sitz Kamoa Holzkern Schwarz Steinoptik ist ein hochwertiges Produkt der Marke Sonstige. Er überzeugt durch sein ansprechendes Design und die robuste Verarbeitung. Als Teil der Kategorie WC-Sitze eignet er sich hervorragend für Ihr Bad und verleiht Ihrer Toilette ein modernes Aussehen.</p><p class=\"justify\">Dieser WC-Sitz besticht durch sein zeitloses Design in Schwarz Steinoptik und passt somit in jedes Badezimmer. Er besteht aus einem strapazierfähigen Holzkern-Material, das sich durch Langlebigkeit und Festigkeit auszeichnet. Dank der Metallscharniere ist der WC-Sitz besonders stabil und belastbar. Er hält einer Belastung von bis zu 150 kg stand, wodurch er sich auch bei täglicher Nutzung bewährt.</p><p class=\"justify\">Die Maße des WC-Sitzes Kamoa Holzkern Schwarz Steinoptik sind so konzipiert, dass er universell auf die meisten handelsüblichen Toiletten passt. Die Montage des WC-Sitzes ist denkbar einfach und kann auch ohne Vorkenntnisse schnell erledigt werden. Die mitgelieferten Montageanweisungen erleichtern Ihnen die Installation zusätzlich.</p><p class=\"justify\">Mit seinem hervorragenden Preis-Leistungs-Verhältnis ist der WC-Sitz Kamoa Holzkern Schwarz Steinoptik eine attraktive Wahl für alle, die Wert auf Stil und Ästhetik legen, ohne auf Qualität und Komfort zu verzichten. Die zahlreichen positiven Bewertungen und die 5-Sterne-Bewertung unterstreichen dies und zeigen, dass dieser WC-Sitz eine ausgezeichnete Wahl für Ihr Bad ist.</p><p class=\"justify\">Bringen Sie ein Stück Eleganz und Komfort in Ihr Badezimmer mit dem stilvollen WC-Sitz Kamoa Holzkern Schwarz Steinoptik von Sonstige, der jedem Raum eine besondere Note verleiht und Ihnen ein angenehmes Sitzgefühl bietet.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "1811066",
+        "seo": {
+          "texts": [
+            {
+              "title": "Verosan+ Stand-WC-Set Paros spülrandlos Weiß inkl. WC-Sitz und Spülkasten",
+              "text": "<p class=\"justify\">Das Verosan+ Stand-WC-Set Paros spülrandlos in Weiß ist eine moderne und hygienische Lösung für Ihr Badezimmer. Mit seiner Eleganz und Funktionalität überzeugt das Set aus Stand-WC, WC-Sitz und Spülkasten sowohl optisch als auch in der Handhabung. Die spülrandlose Technologie ermöglicht eine schnelle und einfache Reinigung und bietet somit eine verbesserte Hygiene im Vergleich zu herkömmlichen WCs.</p><p class=\"justify\">Der inkludierte WC-Sitz verfügt über eine Absenkautomatik und Quick Release Funktion zur einfachen Abnahme, wodurch das Reinigen und Warten des Stand-WCs noch bequemer wird. Der aufgesetzte keramische Spülkasten fügt sich nahtlos in das Design des Stand-WCs ein und sorgt für ein modernes und ansprechendes Erscheinungsbild in Ihrem Badezimmer.</p><p class=\"justify\">Mit einer Gesamtbewertung von 5 Sternen und 463 Kundenbewertungen zeugt das Verosan+ Stand-WC-Set Paros von hoher Qualität und Kundenzufriedenheit. Das Set ist somit eine hervorragende Wahl für alle, die ein modernes, hygienisches und zugleich optisch ansprechendes WC-Set suchen. Die Stand-WC-Lösung von Verosan+ ist nicht nur elegant und funktional, sondern auch in der Anschaffung zu einem attraktiven Preis erhältlich.</p><p class=\"justify\">Insgesamt bietet das Verosan+ Stand-WC-Set Paros spülrandlos Weiß inkl. WC-Sitz und Spülkasten eine ideale Kombination aus Design, Funktionalität, Hygiene und Preis. Mit diesem WC-Set erhalten Sie eine moderne und praktische Lösung für Ihr Badezimmer, die zugleich Komfort und eine einfache Handhabung garantiert. Entdecken Sie die Vorteile des spülrandlosen Stand-WCs und genießen Sie ein neues Niveau der Badezimmerhygiene.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "3343563",
+        "seo": {
+          "texts": [
+            {
+              "title": "baliv Stand-WC-Kombination Weiß Spülrandlos",
+              "text": "<p class=\"justify\">Die baliv Stand-WC-Kombination Weiß Spülrandlos ist ein modernes und hochwertiges Produkt, das sich perfekt in jedes Badezimmer integriert. Dieses Modell aus der renommierten Marke baliv besticht durch sein elegantes Design und seine ausgezeichnete Funktionalität. Die Kombination aus einem spülrandlosen Tiefspülklosett, einem aufgesetzten Spülkasten und einem passenden WC-Sitz bietet höchsten Komfort und optimale Hygiene.</p><p class=\"justify\">Die spülrandlose Technologie ist ein bedeutender Vorteil dieser Stand-WC-Kombination. Sie ermöglicht eine schnellere und einfachere Reinigung, da es keine versteckten Stellen gibt, an denen sich Schmutz und Ablagerungen ansammeln können. Dies führt zu einer erhöhten Hygiene und einem saubereren Badezimmer. Das randlose Design ist zudem äußerst elegant und verleiht Ihrem Badezimmer einen zeitgemäßen Look.</p><p class=\"justify\">Der GTIN13-Code 9006947068050 garantiert die Originalität und Qualität der baliv Stand-WC-Kombination. Die Kategorie WC-Sets umfasst eine Vielzahl an hochwertigen Produkten, und dieses Modell ist eine hervorragende Wahl für alle, die Wert auf Design, Funktionalität und Hygiene legen. Das Produkt ist auch in anderen Kategorien wie Startseite, Bad und Toiletten zu finden.</p><p class=\"justify\">Die baliv Stand-WC-Kombination Weiß Spülrandlos ist ein echter Hingucker in jedem Badezimmer und bietet Ihnen nicht nur ein ansprechendes Design, sondern auch eine einfache Handhabung und Pflege. Mit dieser Stand-WC-Kombination treffen Sie eine ausgezeichnete Wahl für Ihr Zuhause und sorgen dafür, dass Ihr Badezimmer stets sauber und hygienisch bleibt. Überzeugen Sie sich selbst von den Vorteilen der baliv Stand-WC-Kombination Weiß Spülrandlos und lassen Sie Ihr Badezimmer in neuem Glanz erstrahlen.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "7854136",
+        "seo": {
+          "texts": [
+            {
+              "title": "Vereg Verosan Tiefspül Stand-WC Cozy Spülrandlos inkl. Sitz Weiß erhöht",
+              "text": "<p class=\"justify\">Das Vereg Verosan Tiefspül Stand-WC Cozy besticht durch sein modernes Design und praktische Funktionen. Dieses raumsparende Stand-WC ist ideal für Badezimmer jeder Größe und bietet nicht nur Komfort, sondern auch optimale Hygiene. Hergestellt aus hochwertigem Sanitärporzellan in klassischem Weiß, passt dieser WC zu jedem Badezimmerstil.</p><p class=\"justify\">Die Komforthöhe von 52 cm erleichtert das Hinsetzen und Aufstehen spürbar und eignet sich hervorragend für Menschen mit eingeschränkter Beweglichkeit. Das Stand-WC verfügt über eine Tiefspülung, bei der die Ausscheidungen direkt in den senkrechten, mit Wasser gefüllten Abfluss fallen. Dadurch entstehen kaum unangenehme Gerüche, und das WC kann leicht gereinigt werden.</p><p class=\"justify\">Die spülrandlose Feature dieses Verosan Stand-WCs garantiert hygienische Sauberkeit im Badezimmer. Durch den Verzicht auf einen Spülrand gelangt das Spülwasser direkt unter den Beckenrand, womit Ablagerungen und Bakterien keine Chance haben. Der Vorteil dieses Stand-WCs ist die einfache Montage, sowohl beim Austausch von alten Keramik-WCs als auch bei der Neuinstallation.</p><p class=\"justify\">Ein weiteres praktisches Merkmal dieses WC-Set ist der WC-Sitz mit Absenkautomatik. Die integrierten Dämpfer in den Scharnieren sorgen dafür, dass der WC-Deckel sanft und leise schließt, wodurch lästige Geräusche vermieden werden. Die Kombination aus Komfort und Hygiene macht das Vereg Verosan Tiefspül Stand-WC Cozy zu einer idealen Wahl für Ihr Badezimmer.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "1810852",
+        "seo": {
+          "texts": [
+            {
+              "title": "Verosan Wand-WC Set Aliki Square spülrandlos Weiß inkl. WC-Sitz - Moderne Optik und erhöhte Hygiene",
+              "text": "<p class=\"justify\">Das Verosan Wand-WC Set Aliki Square spülrandlos Weiß inkl. WC-Sitz (SKU: 1810852) besticht durch seine moderne Optik und vereint Funktionalität mit hohem Designanspruch. Das Set besteht aus einem spülrandlosen Wand-WC, einem passenden Slim WC-Sitz und einer verdeckten Wandbefestigung. Die Marke Verosan ist bekannt für ihre hochwertigen Badprodukte und bietet mit diesem WC-Set eine attraktive Lösung für Ihr Badezimmer.</p><p class=\"justify\">Der Toilettensitz Slim verfügt über eine integrierte Absenkautomatik, die das einfache Schließen des Deckels ermöglicht. Die Quick Release Funktion sorgt zudem für eine einfache Abnahme des Sitzes, was die Reinigung des WC-Sets erleichtert. Das spülrandlose Wand-WC ist nicht nur ein ästhetischer Hingucker, sondern bietet auch praktische Vorteile: eine schnelle und einfache Reinigung und erhöhte Hygiene durch das randlose Design, das Ablagerungen und Verschmutzungen keine Chance lässt.</p><p class=\"justify\">Mit einer 5-Sterne-Bewertung und 445 Bewertungen zeichnet sich das Verosan Wand-WC Set Aliki Square durch seine hohe Kundenzufriedenheit aus. Die Kombination aus modernem Design, Funktionalität und herausragender Qualität macht dieses WC-Set zu einer hervorragenden Wahl für jedes Badezimmer. Die GTIN13 des Produkts lautet: 9006947067633.</p><p class=\"justify\">In der Kategorie \"WC-Sets\" gehört das Verosan Wand-WC Set Aliki Square zu den Top-Produkten und bietet eine zeitgemäße Lösung für Ihr Zuhause. Das stilvolle Erscheinungsbild und die praktischen Funktionen sorgen dafür, dass dieses WC-Set eine ausgezeichnete Wahl für Ihr Bad ist. Überzeugen Sie sich selbst von der Qualität und dem Komfort, den dieses spülrandlose Wand-WC bietet.</p>"
+            }
+          ]
         }
       }
     ]
   },
   "categorySeo": {
     "defaultTitle": "$KATEGORIE shoppen auf Toilettendeal.de",
-    "defaultMetaDescription": "$KATEGORIE: Umfangreiche Auswahl an Toiletten & Zubeh\u00f6r bei uns im Shop! | Finden Sie die beste Toilette | G\u00fcnstig online bestellen auf Toilettendeal.de.",
+    "defaultMetaDescription": "$KATEGORIE: Umfangreiche Auswahl an Toiletten & Zubehör bei uns im Shop! | Finden Sie die beste Toilette | Günstig online bestellen auf Toilettendeal.de.",
     "defaultRobots": "index, follow",
     "categories": [
       {
@@ -138,8 +215,8 @@
         "slug": "sporthosen",
         "name": "Sporthosen",
         "seo": {
-          "title": "Sporthosen g\u00fcnstig kaufen",
-          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "title": "Sporthosen günstig kaufen",
+          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
           "robots": "index, follow",
           "texts": [
             {
@@ -156,16 +233,16 @@
     ]
   },
   "brandSeo": {
-    "defaultTitle": "$HERSTELLER - Qualit\u00e4t zum fairen Preis",
-    "defaultMetaDescription": "$HERSTELLER ist eine der f\u00fchrenden Marken f\u00fcr Toiletten. Hier finden Sie viele Produkte der Marke $HERSTELLER, sowie weitere namhafte Hersteller f\u00fcr Toiletten.",
+    "defaultTitle": "$HERSTELLER - Qualität zum fairen Preis",
+    "defaultMetaDescription": "$HERSTELLER ist eine der führenden Marken für Toiletten. Hier finden Sie viele Produkte der Marke $HERSTELLER, sowie weitere namhafte Hersteller für Toiletten.",
     "defaultRobots": "index, follow",
     "brands": [
       {
         "key": "palm",
         "name": "Palm",
         "seo": {
-          "title": "Produkte von Palm g\u00fcnstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "title": "Produkte von Palm günstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
           "robots": "index, follow"
         }
       }
@@ -203,5 +280,7 @@
   },
   "affiliate": {
     "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
+}3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
   }
 }
